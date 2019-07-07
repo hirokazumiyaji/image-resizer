@@ -1,0 +1,9 @@
+{
+  "name": "imagix",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "firebase-tools": "^7.0.2"
+  }
+}
